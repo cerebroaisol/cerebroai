@@ -1,4 +1,4 @@
-# Cerebro AI 🤖
+# Juno AI 🤖
 
 ## ✨ Features
 
@@ -37,7 +37,7 @@ Copy .env.example to .env and fill in the appropriate values
 cp .env.example .env
 ```
 
-### Automatically Start Cerebro
+### Automatically Start Juno
 
 This will run everything to setup the project and start the bot with the default character.
 
